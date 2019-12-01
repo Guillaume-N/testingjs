@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "0.1.0",
+  "description": "tiny test framework and assertion library",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guillaume-N/testingjs.git"
+  },
+  "author": "Guillaume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guillaume-N/testingjs/issues"
+  },
+  "homepage": "https://github.com/Guillaume-N/testingjs#readme",
+  "dependencies": {
+    "jest": "24.9.0"
+  }
+}
